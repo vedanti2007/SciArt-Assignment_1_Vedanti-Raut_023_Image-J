@@ -130,7 +130,7 @@ Output includes:
 
 The ImageJ-based workflow successfully enabled automated segmentation and quantification of structures in the ER.ALT2 dataset. A total of **2098 particles** were detected, demonstrating effective preprocessing and segmentation.
 
----
+
 
 ## Prepared by
 Vedanti Raut  
